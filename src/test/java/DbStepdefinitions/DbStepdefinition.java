@@ -16,8 +16,7 @@ public class DbStepdefinition {
 
     // Bir JDBC projesine baslamadan önce ilk is olarak Database sistem yöneticisinden
     // Database Access Information bilgilerini almaliyiz.
-
-
+//
     /*
     Database Access Information
    ..ilk ekleme
