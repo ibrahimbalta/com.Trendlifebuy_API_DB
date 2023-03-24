@@ -20,7 +20,7 @@ public class DbStepdefinition {
 
     /*
     Database Access Information
-
+   ..ilk ekleme
 	Database_type: mysql
 	Database_name: trendlifebuy_trainingtrendlife
 	Database_host/id_number: 194.140.198.209
